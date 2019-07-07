@@ -1,0 +1,44 @@
+"ar"
+{
+	"5.56mm 클라리온"
+	{
+		"weapon_name"	"weapon_famas"
+		"weapon_price"	"2250"
+		"weapon_team"	"3"
+	}
+	
+	"IDF 디펜더"
+	{
+		"weapon_name"	"weapon_galil"
+		"weapon_price"	"2000"
+		"weapon_team"	"2"
+	}
+	
+	"매버릭 M4A1 카빈"
+	{
+		"weapon_name"	"weapon_m4a1"
+		"weapon_price"	"3100"
+		"weapon_team"	"3"
+	}
+	
+	"CV-47"
+	{
+		"weapon_name"	"weapon_ak47"
+		"weapon_price"	"2500"
+		"weapon_team"	"2"
+	}
+	
+	"불펍"
+	{
+		"weapon_name"	"weapon_aug"
+		"weapon_price"	"3500"
+		"weapon_team"	"3"
+	}
+	
+	"크리그 552"
+	{
+		"weapon_name"	"weapon_sg552"
+		"weapon_price"	"3500"
+		"weapon_team"	"2"
+	}
+}

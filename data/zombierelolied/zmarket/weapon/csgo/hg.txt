@@ -1,0 +1,72 @@
+"hg"
+{
+	"P2000"
+	{
+		"weapon_name"	"weapon_hkp2000"
+		"weapon_price"	"2500"
+		"weapon_team"	"3"
+	}
+	
+	"USP-S"
+	{
+		"weapon_name"	"weapon_usp_silencer"
+		"weapon_price"	"2000"
+		"weapon_team"	"3"
+	}
+	
+	"Glock 18"
+	{
+		"weapon_name"	"weapon_glock"
+		"weapon_price"	"2000"
+		"weapon_team"	"2"
+	}
+	
+	"P250"
+	{
+		"weapon_name"	"weapon_p250"
+		"weapon_price"	"2500"
+		"weapon_team"	"3"
+	}
+	
+	"Five-SeveN"
+	{
+		"weapon_name"	"weapon_fiveseven"
+		"weapon_price"	"5000"
+		"weapon_team"	"3"
+	}
+	
+	"Tec-9"
+	{
+		"weapon_name"	"weapon_tec9"
+		"weapon_price"	"4500"
+		"weapon_team"	"2"
+	}
+	
+	"CZ75 Auto"
+	{
+		"weapon_name"	"weapon_cz75a"
+		"weapon_price"	"4500"
+		"weapon_team"	"2"
+	}
+	
+	"Desert Eagle"
+	{
+		"weapon_name"	"weapon_deagle"
+		"weapon_price"	"5500"
+		"weapon_team"	"3"
+	}
+	
+	"Dual Berettas"
+	{
+		"weapon_name"	"weapon_elite"
+		"weapon_price"	"5000"
+		"weapon_team"	"2"
+	}
+	
+	"R8 Revolver"
+	{
+		"weapon_name"	"weapon_revolver"
+		"weapon_price"	"5500"
+		"weapon_team"	"3"
+	}
+}

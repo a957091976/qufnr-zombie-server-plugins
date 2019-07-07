@@ -1,0 +1,114 @@
+"assaulter.txt"
+{
+	"AR 숙련"		//	v
+	{
+		"description"	"AR의 피해량이 4%% 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"1"
+		"actionvalue"	"0.04"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"브레이크 리미트"	//	v
+	{
+		"description"	"3초간 AR의 탄창이 줄어들지 않는다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"30"
+		"cooldown"		"20"
+		"needplayerpt"	"5"
+		"actionvalue"	"3.0"
+		"block_skill_id"	"2"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"격려"	//	v
+	{
+		"description"	"팀원들을 격려하여 5초간 주변의 팀원들의 공격력이 10%% 증가한다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"30"
+		"cooldown"		"30"
+		"needplayerpt"	"5"
+		"actionvalue"	"0.10"
+		"block_skill_id"	"1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"브레이크 리미트 마스터리"	//	v
+	{
+		"description"	"(브레이크 리미트)의 지속시간이 +0.5초 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.5"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"격려 마스터리"		//	v
+	{
+		"description"	"(격려)의 공격력이 +2%% 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.02"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"애모 차지"	//	v
+	{
+		"description"	"AR 발사 시 10%% 확률로 탄약을 소모하지 않는다.{newline}기술 레벨 당 +2%% 증가한다."
+		"maxlvl"		"6"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"2.0"	//	0~100 chance
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"리더쉽"		//	v
+	{
+		"description"	"주변 팀원들의 장전속도가 10%% 증가한다.{newline}기술 레벨 당 +3%% 증가한다."
+		"maxlvl"		"6"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.03"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"오버히트"	//	v
+	{
+		"description"	"(브레이크 리미트)가 지속되는 시간 동안{newline}0.5초당 공격력이 5%%씩 상승한다."
+		"maxlvl"		"1"
+		"type"			"0"
+		"needplayerpt"	"25"
+		"actionvalue"	"0.05"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"3"
+	}
+	
+	"히어로"	//	v
+	{
+		"description"	"(격려)의 영향을 받고있는 팀원들의 공격력, 장전속도, 연사력이 15%% 증가한다."
+		"maxlvl"		"1"
+		"type"			"0"
+		"needplayerpt"	"25"
+		"actionvalue"	"0.15"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"4"
+	}
+}

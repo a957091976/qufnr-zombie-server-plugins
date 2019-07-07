@@ -1,0 +1,51 @@
+"ar"
+{
+	"FAMAS"
+	{
+		"weapon_name"	"weapon_famas"
+		"weapon_price"	"3000"
+		"weapon_team"	"3"
+	}
+	
+	"Galil AR"
+	{
+		"weapon_name"	"weapon_galilar"
+		"weapon_price"	"3000"
+		"weapon_team"	"2"
+	}
+	
+	"M4A4"
+	{
+		"weapon_name"	"weapon_m4a1"
+		"weapon_price"	"4000"
+		"weapon_team"	"3"
+	}
+	
+	"M4A1-S"
+	{
+		"weapon_name"	"weapon_m4a1_silencer"
+		"weapon_price"	"3000"
+		"weapon_team"	"3"
+	}
+	
+	"AK-47"
+	{
+		"weapon_name"	"weapon_ak47"
+		"weapon_price"	"4000"
+		"weapon_team"	"2"
+	}
+	
+	"AUG"
+	{
+		"weapon_name"	"weapon_aug"
+		"weapon_price"	"3500"
+		"weapon_team"	"3"
+	}
+	
+	"SG 553"
+	{
+		"weapon_name"	"weapon_sg556"
+		"weapon_price"	"3500"
+		"weapon_team"	"2"
+	}
+}

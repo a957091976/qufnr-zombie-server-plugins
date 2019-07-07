@@ -1,0 +1,9 @@
+"mg"
+{
+	"M249 Para"
+	{
+		"weapon_name"	"weapon_m249"
+		"weapon_price"	"5750"
+		"weapon_team"	"3"
+	}
+}

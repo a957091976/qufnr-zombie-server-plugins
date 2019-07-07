@@ -1,0 +1,1674 @@
+"item"
+{
+//	"Item name"
+//	{
+//		"item_path"		"Item model path"
+//		"item_arms_path"	"Charactor arms model path"
+//		"item_type"		"Item Types: 1 Charactors, 2 trails, 3 chat tags, 4 laser tracer, 5 aura"
+//		"item_price"		"Item price amount"
+//		"item_rarity"		"Item rarity: 1 Normal, 2 Rare, 3 SR, 4 SSR, 5 Private"
+//		"item_classlevel"	"Item Class Level: 0 ~ 8"
+//		"item_admin_skin_steamid"		"Steam ID3"
+//		"item_random_droptype"		"Randombox index: 0 none, 1 normal, 2 premium"
+//		"item_not_sell"			"Item sell on store: 0 default, 1 not on store"
+//	}
+
+	"바나나 조"
+	{
+		"item_path"		"models/player/custom_player/kuristaja/banana_joe/banana_joe.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/banana_joe/banana_joe_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"2500"
+		"item_rarity"		"1"
+		"item_classlevel"	"0"
+	}
+
+	"게이 고양이"
+	{
+		"item_path"		"models/player/custom/gaycat/gaycat.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"2500"
+		"item_rarity"		"1"
+		"item_classlevel"	"0"
+	}
+
+	"솔져"
+	{
+		"item_path"		"models/player/custom_player/kuristaja/tf2/soldier/soldier_redv2.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/tf2/soldier/soldier_red_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"3500"
+		"item_rarity"		"1"
+		"item_classlevel"	"1"
+	}
+
+	"파이로"
+	{
+		"item_path"		"models/player/custom_player/kuristaja/tf2/pyro/pyro_redv2.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/tf2/pyro/pyro_red_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"3500"
+		"item_rarity"		"1"
+		"item_classlevel"	"1"
+	}
+
+	"데모맨"
+	{
+		"item_path"		"models/player/custom_player/kuristaja/tf2/demoman/demoman_redv2.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/tf2/demoman/demoman_red_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"3500"
+		"item_rarity"		"1"
+		"item_classlevel"	"1"
+	}
+
+	"에치오 아우디토레 다 피렌체"
+	{
+		"item_path"		"models/player/custom_player/voikanaa/acb/ezio.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"3800"
+		"item_rarity"		"1"
+		"item_classlevel"	"1"
+	}
+
+	"코너 켄웨이"
+	{
+		"item_path"		"models/player/custom_player/caleon1/connor/connor.mdl"
+		"item_arms_path"	"models/player/custom_player/caleon1/connor/connor_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"3800"
+		"item_rarity"		"1"
+		"item_classlevel"	"1"
+	}
+
+	"넵기어"
+	{
+		"item_path"		"models/player/custom_player/uuz/nepgear/nepgear.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/nepgear/nepgear_arms_skin6.mdl"
+		"item_type"		"1"
+		"item_price"		"4500"
+		"item_rarity"		"2"
+		"item_classlevel"	"2"
+	}
+	
+	"넵튠"
+	{
+		"item_path"		"models/player/custom_player/uuz/neptunia/neptunia_fix.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/neptunia/nepgear_arms_skin3.mdl"
+		"item_type"		"1"
+		"item_price"		"4500"
+		"item_rarity"		"2"
+		"item_classlevel"	"2"
+	}
+	
+	"느와르"
+	{
+		"item_path"		"models/player/uuz/noire/noire.mdl"
+		"item_arms_path"	"models/player/uuz/noire/noire_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"4500"
+		"item_rarity"		"2"
+		"item_classlevel"	"2"
+	}
+	
+	"플루티아"
+	{
+		"item_path"		"models/player/uuz/plutia/plutia.mdl"
+		"item_arms_path"	"models/player/uuz/plutia/plutia_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"4500"
+		"item_rarity"		"2"
+		"item_classlevel"	"2"
+	}
+	
+	"#SPACE_SLOT_1"
+	{
+		"item_path"		"models/error.mdl"
+		"item_arms_path"	"models/error.mdl"
+		"item_type"		"0"
+		"item_price"		"0"
+		"item_rarity"		"2"
+		"item_classlevel"	"0"
+	}
+	
+	"아카츠키"
+	{
+		"item_path"		"models/player/custom_player/uuz/KantaiCollection/akatsuki.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/KantaiCollection/akatsuki_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"5000"
+		"item_rarity"		"2"
+		"item_classlevel"	"3"
+	}
+	
+	"히비키"
+	{
+		"item_path"		"models/player/custom_player/uuz/KantaiCollection/hibiki.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/KantaiCollection/akatsuki_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"5000"
+		"item_rarity"		"2"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"이카즈치"
+	{
+		"item_path"		"models/player/custom_player/uuz/KantaiCollection/ikazuchi.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/KantaiCollection/akatsuki_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"5000"
+		"item_rarity"		"2"
+		"item_classlevel"	"3"
+	}
+	
+	"이나즈마"
+	{
+		"item_path"		"models/player/custom_player/uuz/KantaiCollection/inazuma.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/KantaiCollection/akatsuki_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"5000"
+		"item_rarity"		"2"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"아카기"
+	{
+		"item_path"		"models/inewsk/akagitest/akagitest.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"5500"
+		"item_rarity"		"2"
+		"item_classlevel"	"3"
+	}
+	
+	"아마츠카제"
+	{
+		"item_path"		"models/player/custom_player/inewsk/amatukaze/amatukaze.mdl"
+		"item_arms_path"	"models/player/custom_player/inewsk/amatukaze/amatukaze_te.mdl"
+		"item_type"		"1"
+		"item_price"		"5500"
+		"item_rarity"		"2"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+		"item_not_sell"		"1"
+	}
+	
+	"히비키 2차 개장"
+	{
+		"item_path"		"models/player/custom_player/uuz/Hibiki_v2/hibiki_v2.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/Hibiki_v2/hibiki_v2_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7000"
+		"item_rarity"		"3"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"북방서희"
+	{
+		"item_path"		"models/inewsk/hoppoutest/hoppoutest.mdl"
+		"item_arms_path"	"models/inewsk/hoppoutest/hoppoutest_te.mdl"
+		"item_type"		"1"
+		"item_price"		"7000"
+		"item_rarity"		"3"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"우즈키"
+	{
+		"item_path"		"models/player/custom_player/uuz/uduki/uduki.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/uduki/uduki_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7000"
+		"item_rarity"		"3"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"유우다치"
+	{
+		"item_path"		"models/player/custom_player/uuz/yuudachi/yuudachi.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/yuudachi/yuudachi_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7000"
+		"item_rarity"		"3"
+		"item_classlevel"	"5"
+		"item_not_sell"        "1"
+	}
+	
+	"야마카제"
+	{
+		"item_path"		"models/player/custom_player/uuz/yamakaze/yamakaze.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/yamakaze/yamakaze_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"10500"
+		"item_rarity"		"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"카시마"
+	{
+		"item_path"		"models/player/custom_player/gkuo88/kashimafix/kashimafix.mdl"
+		"item_arms_path"	"models/player/custom_player/gkuo88/kashimafix/kashimahands.mdl"
+		"item_type"		"1"
+		"item_price"		"7200"
+		"item_rarity"		"3"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"시마카제 개장"
+	{
+		"item_path"		"models/player/custom_player/thas/MMD/unknown/shimakaze_kai/shimakaze_kai.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/unknown/shimakaze_kai/shimakaze_kai_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7000"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_not_sell"        "1"
+	}
+	
+	"프린츠 오이겐"
+	{
+		"item_path"		"models/player/custom_player/gkuo88/prinzeugen/prinz.mdl"
+		"item_arms_path"	"models/player/custom_player/gkuo88/prinzeugen/prinzarms.mdl"
+		"item_type"		"1"
+		"item_price"		"7000"
+		"item_rarity"		"3"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"#SPACE_SLOT_2"
+	{
+		"item_path"		"models/error.mdl"
+		"item_arms_path"	"models/error.mdl"
+		"item_type"		"0"
+		"item_price"		"0"
+		"item_rarity"		"0"
+		"item_classlevel"	"0"
+	}
+	
+	"치르노"
+	{
+		"item_path"		"models/player/custom_player/uuz/cirno/cirno_b.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"5000"
+		"item_rarity"		"2"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+	}
+	
+	"레밀리아 스칼렛"
+	{
+		"item_path"		"models/player/custom_player/uuz/remilia/remilia_b.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/flandre/flandre_arms_fix2.mdl"
+		"item_type"		"1"
+		"item_price"		"7200"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"플랑도르 스칼렛"
+	{
+		"item_path"		"models/player/custom_player/uuz/flandre/flandre_b.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/flandre/flandre_arms_fix2.mdl"
+		"item_type"		"1"
+		"item_price"		"7200"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"키리사메 마리사"
+	{
+		"item_path"		"models/player/custom_player/uuz/marisa/marisa_b.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"5200"
+		"item_rarity"		"2"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"1"
+	}
+	
+	"코메이지 코이시"
+	{
+		"item_path"		"models/player/custom_player/uuz/komeiji_koishi/komeiji_koishi.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/komeiji_koishi/komeiji_koishi_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"9500"
+		"item_rarity"		"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"코메이지 사토리"
+	{
+		"item_path"		"models/player/custom_player/uuz/satori/satori.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"9000"
+		"item_rarity"		"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"라쿤"
+	{
+		"item_path"		"models/player/custom_player/thas/MMD/schwarz/araisan/araisan.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/schwarz/araisan/araisan_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7500"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"사막여우"
+	{
+		"item_path"		"models/player/custom_player/thas/MMD/schwarz/fennec/fennec.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/schwarz/fennec/fennec_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"8000"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"넓적부리황새"
+	{
+		"item_path"		"models/player/custom_player/thas/MMD/schwarz/hashibirokou/hashibirokou.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/schwarz/hashibirokou/hashibirokou_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"10500"
+		"item_rarity"		"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"서벌"
+	{
+		"item_path"		"models/player/custom_player/thas/MMD/cham/serval_tyan_fix/serval_tyan.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/cham/serval_tyan/serval_tyan_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7500"
+		"item_rarity"		"3"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"가방"
+	{
+		"item_path"		"models/player/custom_player/thas/MMD/schwarz/kaban_chan/kaban_chan.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/schwarz/kaban_chan/kaban_chan_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7000"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"피닉스"
+	{
+		"item_path"		"models/player/custom_player/legacy/tm_phoenix_varianta.mdl"
+		"item_arms_path"	"models/weapons/t_arms_phoenix.mdl"
+		"item_type"		"1"
+		"item_price"		"0"
+		"item_rarity"	"100"
+		"item_classlevel"	"0"
+		"item_admin_skin_steamid"	"[U:1:1353536]"
+	}
+	
+	"하얀색 트레일"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_normal_white"
+		"item_type"		"2"
+		"item_price"		"4000"
+		"item_rarity"		"1"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"주황색 트레일"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_normal_orange"
+		"item_type"		"2"
+		"item_price"		"4500"
+		"item_rarity"		"1"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"노란색 트레일"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_normal_yellow"
+		"item_type"		"2"
+		"item_price"		"4500"
+		"item_rarity"		"1"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"초록색 트레일"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_normal_green"
+		"item_type"		"2"
+		"item_price"		"4500"
+		"item_rarity"		"1"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"하늘색 트레일"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_normal_blue"
+		"item_type"		"2"
+		"item_price"		"4500"
+		"item_rarity"		"1"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"파란색 트레일"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_normal_darkblue"
+		"item_type"		"2"
+		"item_price"		"4500"
+		"item_rarity"		"1"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"보라색 트레일"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_normal_purple"
+		"item_type"		"2"
+		"item_price"		"4500"
+		"item_rarity"		"1"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"핑크색 트레일"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_normal_pink"
+		"item_type"		"2"
+		"item_price"		"4500"
+		"item_rarity"		"1"
+		"item_classlevel"	"3"
+		"item_random_droptype"	"1"
+	}
+	
+	"비눗방울"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_bubble"
+		"item_type"		"5"
+		"item_price"		"10200"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"속박의 주술"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_greenmagic"
+		"item_type"		"5"
+		"item_price"		"13000"
+		"item_rarity"		"4"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"파괴의 주술"
+	{
+		"item_path"		"particles/qufnr/aura/aura_bloodmagic.pcf"
+		"item_arms_path"	"strail_magic"
+		"item_type"		"5"
+		"item_price"		"13000"
+		"item_rarity"		"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"장미 바람"
+	{
+		"item_path"		"particles/qufnr/aura/aura_rose.pcf"
+		"item_arms_path"	"strail_rose"
+		"item_type"		"5"
+		"item_price"		"13000"
+		"item_rarity"		"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"기하학"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_strange"
+		"item_type"		"5"
+		"item_price"		"13000"
+		"item_rarity"		"4"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"북방여우"
+	{
+		"item_path"		"models/player/custom_player/thas/MMD/BTA/ezo_red_fox/ezo_red_fox.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/BTA/ezo_red_fox/ezo_red_fox_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"10500"
+		"item_rarity"		"4"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"은빛여우"
+	{
+		"item_path"		"models/player/custom_player/thas/MMD/BTA/silver_fox/silver_fox.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/BTA/silver_fox/silver_fox_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"10500"
+		"item_rarity"		"4"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"사기사와 후미카"
+	{
+		"item_path"		"models/player/custom_player/uuz/fumika/fumika.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/fumika/fumika_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"11000"
+		"item_rarity"		"4"
+		"item_classlevel"	"8"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"Slayer"
+	{
+		"item_path"			"models/player/custom_player/legacy/doomslayer/doomslayer.mdl"
+		"item_arms_path"	"models/player/custom_player/legacy/doomslayer/doomslayer_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"3500"
+		"item_rarity"	"1"
+		"item_classlevel"	"4"
+	}
+	
+	"이츠카 코토리"
+	{
+		"item_path"			"models/player/custom_player/monsterko/qinli/qinli.mdl"
+		"item_arms_path"	"models/player/custom_player/monsterko/qinli/qinlihands.mdl"
+		"item_type"		"1"
+		"item_price"		"5300"
+		"item_rarity"	"2"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"1"
+	}
+	
+	"흰얼굴소쩍새"
+	{
+		"item_path"			"models/player/custom_player/thas/MMD/schwarz/hakase/konoha_hakase.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/schwarz/hakase/konoha_hakase_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7200"
+		"item_rarity"	"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"수리부엉이"
+	{
+		"item_path"			"models/player/custom_player/thas/MMD/schwarz/josyu/mimi_tyan_josyu.mdl"
+		"item_arms_path"	"models/player/custom_player/thas/MMD/schwarz/josyu/mimi_tyan_josyu_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7200"
+		"item_rarity"	"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"칭호 1회 자유 변경권"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"7000"
+		"item_rarity"	"3"
+		"item_classlevel"	"6"
+	}
+	
+	"뉴비"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"0"
+		"item_rarity"	"1"
+		"item_classlevel"	"0"
+	}
+	
+	"좀비모드를 조금 아는"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"500"
+		"item_rarity"	"1"
+		"item_classlevel"	"2"
+	}
+	
+	"초록색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"2500"
+		"item_rarity"		"1"
+		"item_color_red"	"0"
+		"item_color_green"	"255"
+		"item_color_blue"	"0"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+	}
+	
+	"빨간색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"2500"
+		"item_rarity"		"1"
+		"item_color_red"	"255"
+		"item_color_green"	"0"
+		"item_color_blue"	"0"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+	}
+	
+	"주황색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"2500"
+		"item_rarity"		"1"
+		"item_color_red"	"200"
+		"item_color_green"	"145"
+		"item_color_blue"	"60"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+	}
+	
+	"보라색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"2500"
+		"item_rarity"		"1"
+		"item_color_red"	"128"
+		"item_color_green"	"65"
+		"item_color_blue"	"210"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+	}
+	
+	"파란색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"2500"
+		"item_rarity"		"1"
+		"item_color_red"	"0"
+		"item_color_green"	"50"
+		"item_color_blue"	"150"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+	}
+	
+	"민트색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"2500"
+		"item_rarity"		"1"
+		"item_color_red"	"60"
+		"item_color_green"	"180"
+		"item_color_blue"	"200"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+		"item_not_sell"		"1"
+	}
+	
+	"분홍색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"3000"
+		"item_rarity"		"2"
+		"item_color_red"	"240"
+		"item_color_green"	"100"
+		"item_color_blue"	"166"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"1"
+		"item_not_sell"		"1"
+	}
+	
+	"하얀색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"3000"
+		"item_rarity"		"2"
+		"item_color_red"	"255"
+		"item_color_green"	"255"
+		"item_color_blue"	"255"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"1"
+	}
+	
+	"회색"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"3000"
+		"item_rarity"		"2"
+		"item_color_red"	"166"
+		"item_color_green"	"166"
+		"item_color_blue"	"166"
+		"item_color_alpha"	"255"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"1"
+	}
+	
+	"콤바인"
+	{
+		"item_path"			"models/player/mapeadores/morell/combine/combine.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"2000"
+		"item_rarity"	"1"
+		"item_classlevel"	"1"
+	}
+	
+	"스톰트루퍼"
+	{
+		"item_path"			"models/player/custom_player/kuristaja/stormtrooper/stormtrooper.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/stormtrooper/stormtrooper_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"2500"
+		"item_rarity"	"1"
+		"item_classlevel"	"0"
+		"item_random_droptype"	"1"
+	}
+	
+	"다스 베이더"
+	{
+		"item_path"			"models/player/custom_player/kuristaja/vader/vader.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/vader/vader_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7200"
+		"item_rarity"	"3"
+		"item_classlevel"	"0"
+		"item_random_droptype"	"1"
+	}
+	
+	"장고 펫"
+	{
+		"item_path"			"models/player/custom_player/legacy/jangofett/jangofett.mdl"
+		"item_arms_path"	"models/player/custom_player/legacy/jangofett/jangofett_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"2500"
+		"item_rarity"	"1"
+		"item_classlevel"	"0"
+		"item_random_droptype"	"1"
+	}
+	
+	"그루트"
+	{
+		"item_path"			"models/player/custom_player/gotg/groot/groot.mdl"
+		"item_arms_path"	"models/player/custom_player/gotg/groot/groot_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"3900"
+		"item_rarity"	"2"
+		"item_classlevel"	"2"
+		"item_random_droptype"	"1"
+		"item_not_sell"		"1"
+	}
+	
+	"헤비 피닉스"
+	{
+		"item_path"			"models/player/custom_player/kuristaja/heavy_phoenix/phoenix.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/heavy_phoenix/phoenix_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"4000"
+		"item_rarity"	"2"
+		"item_classlevel"	"4"
+		"item_random_droptype"	"1"
+	}
+	
+	"Hunk"
+	{
+		"item_path"			"models/player/custom_player/kuristaja/hunk/hunk.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/hunk/hunk_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"2500"
+		"item_rarity"	"1"
+		"item_classlevel"	"1"
+		"item_random_droptype"	"1"
+	}
+	
+	"저거너트"
+	{
+		"item_path"			"models/player/custom_player/darnias/juggernaut.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"3500"
+		"item_rarity"	"2"
+		"item_classlevel"	"2"
+		"item_random_droptype"	"1"
+	}
+	
+	"T-600"
+	{
+		"item_path"			"models/player/custom_player/kuristaja/t-600/t-600.mdl"
+		"item_arms_path"	"models/player/custom_player/kuristaja/t-600/t-600_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"2500"
+		"item_rarity"	"1"
+		"item_classlevel"	"1"
+	}
+	
+	"우간다 너클즈"
+	{
+		"item_path"			"models/player/custom_player/kuristaja/knuckles/knuckles.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"10250"
+		"item_rarity"	"4"
+		"item_classlevel"	"8"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"시구레"
+	{
+		"item_path"			"models/player/custom_player/uuz/shigure/shigure.mdl"
+		"item_arms_path"	"models/player/custom_player/inewsk/sigure/sigure_te.mdl"
+		"item_type"		"1"
+		"item_price"		"6500"
+		"item_rarity"	"3"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"카무이 칸나"
+	{
+		"item_path"			"models/player/custom_player/2018x/kanna/a0.mdl"
+		"item_arms_path"	"models/player/custom_player/2018x/kanna/a1_arm.mdl"
+		"item_type"		"1"
+		"item_price"		"8000"
+		"item_rarity"	"5"
+		"item_classlevel"	"8"
+	}
+	
+	"카와카제"
+	{
+		"item_path"			"models/player/custom_player/uuz/kawakaze/kawakaze.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/kawakaze/kawakaze_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"9800"
+		"item_rarity"	"4"
+		"item_classlevel"	"8"
+		"item_random_droptype"	"1"
+		"item_not_sell"		"1"
+	}
+	
+	"요시노"
+	{
+		"item_path"			"models/player/custom_player/uuz/yoshino/yoshino.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/yoshino/yoshino_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"7800"
+		"item_rarity"	"5"
+		"item_classlevel"	"8"
+	}
+	
+	"무지개 (Normal)"
+	{
+		"item_path"			"materials/sprites/laser.vmt"
+		"item_arms_path"	""
+		"item_type"			"4"
+		"item_price"		"5000"
+		"item_rarity"		"5"
+		"item_color_red"	"0"
+		"item_color_green"	"0"
+		"item_color_blue"	"0"
+		"item_color_alpha"	"255"
+		"item_option"		"1"
+		"item_classlevel"	"8"
+	}
+	
+	"시마무라 우즈키"
+	{
+		"item_path"		"models/player/custom_player/uuz/newbone/shimamura_uzuki/shimamura_uzuki.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/newbone/shimamura_uzuki/shimamura_uzuki_arms_skin0.mdl"
+		"item_type"		"1"
+		"item_price"		"0"
+		"item_rarity"	"100"
+		"item_classlevel"	"0"
+		"item_admin_skin_steamid"	"[U:1:1353536]"
+	}
+	
+	"넵튠 (Night Wear)"
+	{
+		"item_path"		"models/player/custom_player/uuz/neptune_wear/neptune_wear.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/neptune_wear/neptune_wear_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"6500"
+		"item_rarity"	"3"
+		"item_classlevel"	"5"
+		"item_not_sell"        "1"
+	}
+	
+	"#SPACE_SLOT_3"
+	{
+		"item_path"			"models/player/custom_player/legacy/cuddleleader.mdl"
+		"item_arms_path"	"models/weapons/cuddleleader_arms.mdl"
+		"item_type"		"0"
+		"item_price"		"4500"
+		"item_rarity"	"0"
+		"item_classlevel"	"0"
+	}
+	
+	"디오 브란도"
+	{
+		"item_path"			"models/player/custom_player/uuz/dio/dio.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/dio/dio_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"6500"
+		"item_rarity"	"3"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"손오공"
+	{
+		"item_path"			"models/player/custom_player/kodua/goku/goku.mdl"
+		"item_arms_path"	"models/player/custom_player/kodua/goku/goku_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"4000"
+		"item_rarity"	"2"
+		"item_classlevel"	"5"
+	}
+	
+	"베지터"
+	{
+		"item_path"			"models/player/custom_player/kodua/vegeta/vegeta.mdl"
+		"item_arms_path"	"models/player/custom_player/kodua/vegeta/vegeta_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"4000"
+		"item_rarity"	"2"
+		"item_classlevel"	"5"
+	}
+	
+	"하츠네 미쿠 (고딕)"
+	{
+		"item_path"			"models/player/custom_player/uuz/newbone/gothicmiku/gothicmiku.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/newbone/gothicmiku/gothicmiku_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"6800"
+		"item_rarity"	"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"IFFY"
+	{
+		"item_path"			"models/player/uuz/iffy/iffy.mdl"
+		"item_arms_path"	"models/player/uuz/iffy/iffy_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"3800"
+		"item_rarity"	"2"
+		"item_classlevel"	"5"
+		"item_random_droptype"	"1"
+	}
+	
+	"쇼콜라"
+	{
+		"item_path"			"models/player/custom_player/kodua/chocola/chocola.mdl"
+		"item_arms_path"	"models/player/custom_player/kodua/chocola/chocola_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"4500"
+		"item_rarity"	"2"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"1"
+	}
+	
+	"루나 차일드"
+	{
+		"item_path"			"models/player/custom_player/uuz/luna_child/luna_child.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/luna_child/luna_child_arms_fix.mdl"
+		"item_type"		"1"
+		"item_price"		"9900"
+		"item_rarity"	"4"
+		"item_classlevel"	"8"
+		"item_not_sell"        "1"
+	}
+	
+	"테르미누스 에스트"
+	{
+		"item_path"			"models/player/custom_player/uuz/terminus_est/terminus_est.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/terminus_est/terminus_est_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"2600"
+		"item_rarity"	"1"
+		"item_classlevel"	"4"
+	}
+	
+	"테레사"
+	{
+		"item_path"			"models/player/custom_player/uuz/newbone/theresa/theresa.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/newbone/theresa/theresa_arms_skin1.mdl"
+		"item_type"		"1"
+		"item_price"		"7600"
+		"item_rarity"	"3"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"        "1"
+	}
+	
+	"야에 사쿠라"
+	{
+		"item_path"			"models/player/custom_player/uuz/yae_sakura/yae_sakura.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/yae_sakura/yae_sakura_armsfix.mdl"
+		"item_type"		"1"
+		"item_price"		"5400"
+		"item_rarity"	"5"
+		"item_classlevel"	"8"
+	}
+	
+	"여우 미쿠"
+	{
+		"item_path"		"models/player/custom_player/bbs_93x_net_2015/fox_miku/update_2015_11_29/fox_miku_hotfix.mdl"
+		"item_arms_path"	"models/player/custom_player/bbs_93x_net_2015/fox_miku/arms/fox_miku_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"6800"
+		"item_rarity"	"3"
+		"item_classlevel"	"7"
+		"item_not_sell"        "1"
+	}
+	
+	"후드 미코"
+	{
+		"item_path"		"models/player/custom_player/sigzzang/hood_miko/hood_miko.mdl"
+		"item_arms_path"	""
+		"item_type"		"1"
+		"item_price"		"7000"
+		"item_rarity"	"3"
+		"item_classlevel"	"6"
+		"item_not_sell"        "1"
+	}
+	
+	"볼텍스"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_blackhole"
+		"item_type"		"5"
+		"item_price"		"12500"
+		"item_rarity"	"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"불꽃 고리"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_blazering"
+		"item_type"		"5"
+		"item_price"		"13000"
+		"item_rarity"	"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"나뭇잎 바람"
+	{
+		"item_path"		"particles/qufnr/aura/aura_leafstorm.pcf"
+		"item_arms_path"	"strail_leafstorm"
+		"item_type"		"5"
+		"item_price"		"11000"
+		"item_rarity"	"3"
+		"item_classlevel"	"2"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"정전기"
+	{
+		"item_path"		"particles/qufnr/aura/aura_lightning.pcf"
+		"item_arms_path"	"strail_lightning"
+		"item_type"		"5"
+		"item_price"		"12500"
+		"item_rarity"	"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"팔레트"
+	{
+		"item_path"		"particles/qufnr/aura/aura_pallete.pcf"
+		"item_arms_path"	"strail_prizm"
+		"item_type"		"5"
+		"item_price"		"13000"
+		"item_rarity"	"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"미러볼"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_rainbowparticle"
+		"item_type"		"5"
+		"item_price"		"13000"
+		"item_rarity"	"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"벚꽃"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_sakuraring"
+		"item_type"		"5"
+		"item_price"		"13500"
+		"item_rarity"	"4"
+		"item_classlevel"	"8"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"펄스"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_blueflame"
+		"item_type"		"5"
+		"item_price"		"12500"
+		"item_rarity"	"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"둥실 구름"
+	{
+		"item_path"		"particles/qufnr/aura/aura_cloud.pcf"
+		"item_arms_path"	"strail_cloud"
+		"item_type"		"5"
+		"item_price"		"10500"
+		"item_rarity"	"3"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"돈벼락"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_money"
+		"item_type"		"5"
+		"item_price"		"13200"
+		"item_rarity"	"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"눈보라"
+	{
+		"item_path"		"particles/qufnr/strail.pcf"
+		"item_arms_path"	"strail_snow"
+		"item_type"		"5"
+		"item_price"		"13000"
+		"item_rarity"	"4"
+		"item_classlevel"	"7"
+		"item_random_droptype"	"2"
+		"item_not_sell"		"1"
+	}
+	
+	"블레이즈 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_blaze"
+		"item_type"		"2"
+		"item_price"		"9000"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"에너지 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_energy"
+		"item_type"		"2"
+		"item_price"		"9200"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"화염 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_fire"
+		"item_type"		"2"
+		"item_price"		"9200"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"라이트닝 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_lightning"
+		"item_type"		"2"
+		"item_price"		"9200"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"LOL 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_lol"
+		"item_type"		"2"
+		"item_price"		"9200"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"시냅스 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_pulse"
+		"item_type"		"2"
+		"item_price"		"9200"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"무지개 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_rainbow"
+		"item_type"		"2"
+		"item_price"		"9500"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"스펙트럼 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_spectrum2"
+		"item_type"		"2"
+		"item_price"		"9300"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"스타라이트 트레일"
+	{
+		"item_path"			"particles/qufnr/ntrail.pcf"
+		"item_arms_path"	"ntrail_starlight"
+		"item_type"		"2"
+		"item_price"		"9300"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"블레이즈 트레이서"
+	{
+		"item_path"			"materials/qufnr/tracer/blaze2.vmt"
+		"item_arms_path"	""
+		"item_type"		"4"
+		"item_price"		"7500"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_color_red"	"255"
+		"item_color_green"	"255"
+		"item_color_blue"	"255"
+		"item_color_alpha"	"255"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"블루 라이트닝 트레이서"
+	{
+		"item_path"			"materials/qufnr/tracer/bluelightning.vmt"
+		"item_arms_path"	""
+		"item_type"		"4"
+		"item_price"		"7500"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_color_red"	"255"
+		"item_color_green"	"255"
+		"item_color_blue"	"255"
+		"item_color_alpha"	"255"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"에너지 볼 트레이서"
+	{
+		"item_path"			"materials/qufnr/tracer/energyball.vmt"
+		"item_arms_path"	""
+		"item_type"		"4"
+		"item_price"		"7500"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_color_red"	"255"
+		"item_color_green"	"255"
+		"item_color_blue"	"255"
+		"item_color_alpha"	"255"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"화염 트레이서"
+	{
+		"item_path"			"materials/qufnr/tracer/fire.vmt"
+		"item_arms_path"	""
+		"item_type"		"4"
+		"item_price"		"7600"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_color_red"	"255"
+		"item_color_green"	"255"
+		"item_color_blue"	"255"
+		"item_color_alpha"	"255"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"라이트닝 트레이서"
+	{
+		"item_path"			"materials/qufnr/tracer/lightning2.vmt"
+		"item_arms_path"	""
+		"item_type"		"4"
+		"item_price"		"7500"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_color_red"	"255"
+		"item_color_green"	"255"
+		"item_color_blue"	"255"
+		"item_color_alpha"	"255"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"스펙트럼 트레이서"
+	{
+		"item_path"			"materials/qufnr/tracer/spectrum2.vmt"
+		"item_arms_path"	""
+		"item_type"		"4"
+		"item_price"		"7500"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_color_red"	"255"
+		"item_color_green"	"255"
+		"item_color_blue"	"255"
+		"item_color_alpha"	"255"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"스타라이트 트레이서"
+	{
+		"item_path"			"materials/qufnr/tracer/starlight.vmt"
+		"item_arms_path"	""
+		"item_type"		"4"
+		"item_price"		"7600"
+		"item_rarity"		"3"
+		"item_classlevel"	"6"
+		"item_color_red"	"255"
+		"item_color_green"	"255"
+		"item_color_blue"	"255"
+		"item_color_alpha"	"255"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"난간트롤찢는다"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"800"
+		"item_rarity"	"2"
+		"item_classlevel"	"3"
+	}
+	
+	"장풍트롤찢는다"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"800"
+		"item_rarity"	"2"
+		"item_classlevel"	"3"
+	}
+	
+	"배신자"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"500"
+		"item_rarity"	"2"
+		"item_classlevel"	"3"
+	}
+	
+	"좀비"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"500"
+		"item_rarity"	"1"
+		"item_classlevel"	"2"
+	}
+	
+	"인간"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"500"
+		"item_rarity"	"1"
+		"item_classlevel"	"2"
+	}
+	
+	"통수왕"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"600"
+		"item_rarity"	"1"
+		"item_classlevel"	"3"
+		"item_tag_color"	"6"
+	}
+
+	"SAS"
+	{
+		"item_path"		"models/player/custom_player/legacy/ctm_sas_varianta.mdl"
+		"item_arms_path"	"models/weapons/ct_arms_sas.mdl"
+		"item_type"		"1"
+		"item_price"		"0"
+		"item_rarity"	"100"
+		"item_classlevel"	"0"
+		"item_admin_skin_steamid"	"[U:1:322971061]"
+	}
+	
+	"타노스"
+	{
+		"item_path"			"models/player/custom_player/kaesar2018/thanos/thanos.mdl"
+		"item_arms_path"	"models/player/custom_player/kaesar2018/thanos/thanos_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"5500"
+		"item_rarity"	"2"
+		"item_classlevel"	"5"
+	}
+	
+	"버니 미쿠"
+	{
+		"item_path"			"models/player/konata/appearance_miku/csgobunnymiku_fix.mdl"
+		"item_arms_path"	"models/player/konata/appearance_miku/bunnyarms.mdl"
+		"item_type"		"1"
+		"item_price"		"10000"
+		"item_rarity"	"3"
+		"item_classlevel"	"6"
+		"item_not_sell"        "1"
+	}
+	
+	"유키 미쿠"
+	{
+		"item_path"			"models/player/konata/Appearance_Miku/yukimiku.mdl"
+		"item_arms_path"	"models/player/konata/Appearance_Miku/yukimikuarms.mdl"
+		"item_type"		"1"
+		"item_price"		"10000"
+		"item_rarity"	"3"
+		"item_classlevel"	"6"
+		"item_not_sell"        "1"
+	}
+	
+	"버터플라이"
+	{
+		"item_path"			"particles/qufnr/batterfly.pcf"
+		"item_arms_path"	"butterfly_01"
+		"item_type"		"2"
+		"item_price"		"12500"
+		"item_rarity"		"4"
+		"item_classlevel"	"6"
+		"item_random_droptype"	"2"
+		"item_not_sell"	"1"
+	}
+	
+	"이나바 테위"
+	{
+		"item_path"			"models/player/custom_player/uuz/newbone/inaba_tei/inaba_tei.mdl"
+		"item_arms_path"	"models/player/custom_player/uuz/newbone/inaba_tei/inaba_tei_arms.mdl"
+		"item_type"		"1"
+		"item_price"		"10500"
+		"item_rarity"	"3"
+		"item_classlevel"	"7"
+		"item_not_sell"        "1"
+	}
+	
+
+	"VIP"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"7"
+		"item_rarity"	"5"
+		"item_tag_color"	"15"
+		"item_not_sell"        "1"
+	}
+	
+	"VVIP"
+	{
+		"item_path"			""
+		"item_arms_path"	""
+		"item_type"		"3"
+		"item_price"	"7"
+		"item_rarity"	"5"
+		"item_tag_color"	"13"
+		"item_not_sell"        "1"
+	}
+}

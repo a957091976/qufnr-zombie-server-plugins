@@ -1,0 +1,9 @@
+"data"
+{
+	"76561197961619264"
+	{
+		"player_tagcolor"		""
+		"player_nickcolor"		""
+		"player_tag_parenthesis_type"		"0"
+	}
+}

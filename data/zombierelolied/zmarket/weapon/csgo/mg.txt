@@ -1,0 +1,16 @@
+"mg"
+{
+	"Negev"
+	{
+		"weapon_name"	"weapon_negev"
+		"weapon_price"	"999999999999"
+		"weapon_team"	"3"
+	}
+	
+	"M249"
+	{
+		"weapon_name"	"weapon_m249"
+		"weapon_price"	"6000"
+		"weapon_team"	"3"
+	}
+}

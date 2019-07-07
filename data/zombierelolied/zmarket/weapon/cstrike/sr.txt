@@ -1,0 +1,30 @@
+"sr"
+{
+	"슈미트 스카우트"
+	{
+		"weapon_name"	"weapon_scout"
+		"weapon_price"	"2750"
+		"weapon_team"	"3"
+	}
+	
+	"크리그 550 코만도"
+	{
+		"weapon_name"	"weapon_sg550"
+		"weapon_price"	"4200"
+		"weapon_team"	"3"
+	}
+	
+	"D3/AU-1"
+	{
+		"weapon_name"	"weapon_g3sg1"
+		"weapon_price"	"3500"
+		"weapon_team"	"3"
+	}
+	
+	"매그넘 저격소총"
+	{
+		"weapon_name"	"weapon_awp"
+		"weapon_price"	"4750"
+		"weapon_team"	"3"
+	}
+}

@@ -1,0 +1,114 @@
+"sniper.txt"
+{
+	"줌 샷"		// v
+	{
+		"description"	"줌 상태에서 발사 시 피해량이 레벨당 +3%% 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"1"
+		"actionvalue"	"0.03"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"사냥의 표식"			//	v
+	{
+		"description"	"5초간 반자동 저격 소총으로 특정 타겟을 3번 타격 마다 추가 피해를 입힌다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"30"
+		"cooldown"		"20"
+		"needplayerpt"	"5"
+		"actionvalue"	"0.08"
+		"block_skill_id"	"2"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"관통탄"			//	v
+	{
+		"description"	"단발 저격소총만 사용할수 있는 (관통탄)을 1발 장전한다.{newline}(관통탄)은 모든것을 관통하며 적중한 좀비에게 1000 피해를 입힌다.{newline}Passive: 모든 단발 저격소총 피해 50%% 증가"
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"30"
+		"cooldown"		"20"
+		"needplayerpt"	"5"
+		"actionvalue"	"1000.0"
+		"block_skill_id"	"1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"사냥의 표식 마스터리"		//	v
+	{
+		"description"	"(사냥의 표식)의 지속 시간이 레벨당 +0.5초 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.5"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"관통탄 마스터리"	//	v
+	{
+		"description"	"(관통탄)의 피해량이 레벨당 +150 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"150.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"딱딱이 마스터리"
+	{
+		"description"	"반자동 저격소총의 재장전 속도가 +3%% 증가한다."
+		"maxlvl"		"6"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.03"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"호크아이"	//	v
+	{
+		"description"	"저격소총의 해드샷 피해량이 +7%% 증가한다."
+		"maxlvl"		"6"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.07"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"마무리 일격"	//	v
+	{
+		"description"	"(사냥의 표식)의 효과 마다 타겟의 주변에 약 500의 폭발 피해를 입힌다."
+		"maxlvl"		"1"
+		"type"			"0"
+		"needplayerpt"	"25"
+		"actionvalue"	"500.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"3"
+	}
+	
+	"라스트불릿"	//	v
+	{
+		"description"	"단발 저격소총의 탄창의 마지막 한발 사격 시 (관통탄)을 발사한다."
+		"maxlvl"		"1"
+		"type"			"0"
+		"needplayerpt"	"25"
+		"actionvalue"	"0.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"4"
+	}
+}

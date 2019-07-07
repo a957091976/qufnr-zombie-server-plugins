@@ -1,0 +1,100 @@
+"zombie_class"
+{
+	"일반 좀비"
+	{
+		"zombie_description"	"평범한 좀비이다."
+		"zombie_mother_zombie_model_1"	"models/player/custom_player/kodua/doom2016/hellknight.mdl"
+		"zombie_mother_zombie_model_2"	"models/player/custom_player/kodua/xmas_gorefiend/xmas_gorefiend.mdl"
+		"zombie_zombie_model_1"		"models/player/custom_player/kodua/xmas_gorefast/xmas_gorefast.mdl"
+		"zombie_zombie_model_2"		"models/player/nf/dead_effect_2/soldier.mdl"
+		"zombie_zombie_arms_model_1"	"models/player/custom_player/zombie/normal_m_09/hand/eminem/hand_normal_m_09.mdl"
+		"zombie_zombie_arms_model_2"	"models/player/custom_player/zombie/normal_m_01/hand/eminem/hand_normal_m_01.mdl"
+		"zombie_zombie_arms_model_3"	"models/player/custom_player/zombie/normal_m_02/hand/eminem/hand_normal_m_02.mdl"
+		"zombie_zombie_arms_model_4"	"models/player/custom_player/zombie/normal_m_10/hand/eminem/hand_normal_m_10.mdl"
+		"zombie_zombie_arms_model_5"	"models/player/custom_player/zombie/normal_m_01/hand/eminem/hand_normal_m_01.mdl"
+		"zombie_zombie_arms_model_6"	"models/player/custom_player/zombie/normal_m_02/hand/eminem/hand_normal_m_02.mdl"
+		"zombie_zombie_arms_model_7"	"models/player/custom_player/zombie/normal_m_08/hand/eminem/hand_normal_m_08.mdl"
+		"zombie_zombie_arms_model_8"	"models/player/custom_player/zombie/normal_m_09/hand/eminem/hand_normal_m_09.mdl"
+		"zombie_zombie_arms_model_9"	"models/player/custom_player/zombie/normal_m_10/hand/eminem/hand_normal_m_10.mdl"
+		"zombie_health"	"5000"			//	노말 좀비일 때 체력
+		"zombie_health_ex"	"16000"		//	숙주 좀비일 때 체력
+		"zombie_health_math"	"100"	//	노말 좀비일 때 올라가는 체력 (플레이어 수에 비례)
+		"zombie_health_math_ex"	"500"	//	숙주 좀비일 때 올라가는 체력 (플레이어 수에 비례)
+		"zombie_health_recharge_scale"		"60"	//	노말 좀비일 때 충전하는 체력량
+		"zombie_health_recharge_scale_ex"	"70"	//	숙주 좀비일 때 충전하는 체력량
+		"zombie_speed"	"1.10"		//	노말 좀비일 때 이동속도
+		"zombie_speed_ex"	"1.20"	//	숙주 좀비일 때 이동속도
+		"zombie_gravity"	"0.90"	//	노말 좀비일 때 중력 (낮아야 높다)
+		"zombie_gravity_ex"	"0.90"	//	숙주 좀비일 때 중력 (낮아야 높다)
+		"zombie_knockback_scale"	"1.6"		//	넉백 스케일 값 (1.0이 기본 값. 값이 낮으면 넉백이 커지고, 높으면 작아진다.)
+		"zombie_knockback_scale_ex"	"1.8"		//	숙주 좀비일 때 넉백 스케일 값
+		"zombie_health_recharge_time"		"1.0"	//	일반 좀비일 때 체력 충전 속도 (초)
+		"zombie_health_recharge_time_ex"	"1.05"	//	숙주 좀비일 때 체력 충전
+	}
+	
+	"깃털 좀비"
+	{
+		"zombie_description"	"깃털처럼 가벼운 좀비이다."
+		"zombie_mother_zombie_model_1"	"models/player/custom_player/kodua/doom2016/hellknight.mdl"
+		"zombie_mother_zombie_model_2"	"models/player/custom_player/kodua/doom2016/hellknight.mdl"
+	//	"zombie_mother_zombie_model_1"	"models/player/uuz/pl/pl.mdl"
+	//	"zombie_mother_zombie_model_2"	"models/player/uuz/pl/pl.mdl"
+		"zombie_zombie_model_1"		"models/player/kuristaja/zombies/classic/classic.mdl"
+		"zombie_zombie_model_2"		"models/player/kuristaja/zombies/zpz/zpz.mdl"
+		"zombie_zombie_arms_model_1"	"models/player/custom_player/zombie/mutation_light/hand/eminem/hand_zombie_mutation_light.mdl"
+		"zombie_zombie_arms_model_2"	"models/player/custom_player/zombie/mutation_light/hand/eminem/hand_zombie_mutation_light.mdl"
+		"zombie_zombie_arms_model_3"	"models/player/custom_player/zombie/normal_m_02/hand/eminem/hand_normal_m_02.mdl"
+		"zombie_zombie_arms_model_4"	"models/player/custom_player/zombie/normal_m_10/hand/eminem/hand_normal_m_10.mdl"
+		"zombie_zombie_arms_model_5"	"models/player/custom_player/zombie/normal_m_01/hand/eminem/hand_normal_m_01.mdl"
+		"zombie_zombie_arms_model_6"	"models/player/custom_player/zombie/normal_m_02/hand/eminem/hand_normal_m_02.mdl"
+		"zombie_zombie_arms_model_7"	"models/player/custom_player/zombie/normal_m_08/hand/eminem/hand_normal_m_08.mdl"
+		"zombie_zombie_arms_model_8"	"models/player/custom_player/zombie/normal_m_09/hand/eminem/hand_normal_m_09.mdl"
+		"zombie_zombie_arms_model_9"	"models/player/custom_player/zombie/normal_m_10/hand/eminem/hand_normal_m_10.mdl"
+		"zombie_health"	"4500"
+		"zombie_health_ex"	"14000"
+		"zombie_health_math"	"50"
+		"zombie_health_math_ex"	"400"
+		"zombie_health_recharge_scale"		"30"
+		"zombie_health_recharge_scale_ex"	"40"
+		"zombie_speed"	"1.15"
+		"zombie_speed_ex"	"1.25"
+		"zombie_gravity"	"0.80"
+		"zombie_gravity_ex"	"0.80"
+		"zombie_knockback_scale"	"1.4"
+		"zombie_knockback_scale_ex"	"1.6"
+		"zombie_health_recharge_time"		"0.9"
+		"zombie_health_recharge_time_ex"	"0.95"
+	}
+	
+	"단단한 좀비"
+	{
+		"zombie_description"	"돌처럼 단단한 좀비이다."
+		"zombie_mother_zombie_model_1"	"models/player/custom_player/kodua/doom2016/hellknight.mdl"
+		"zombie_mother_zombie_model_2"	"models/player/custom_player/kuristaja/walker/walkerv2.mdl"
+		"zombie_zombie_model_1"		"models/player/kuristaja/zombies/fatty/fatty.mdl"
+		"zombie_zombie_model_2"		"models/player/kuristaja/zombies/fatty/fatty.mdl"
+		"zombie_zombie_arms_model_1"	"models/player/custom_player/zombie/mutation_heavy/hand/eminem/hand_zombie_mutation_heavy.mdl"
+		"zombie_zombie_arms_model_2"	"models/player/custom_player/zombie/mutation_heavy/hand/eminem/hand_zombie_mutation_heavy.mdl"
+		"zombie_zombie_arms_model_3"	"models/player/custom_player/zombie/normal_m_02/hand/eminem/hand_normal_m_02.mdl"
+		"zombie_zombie_arms_model_4"	"models/player/custom_player/zombie/normal_m_10/hand/eminem/hand_normal_m_10.mdl"
+		"zombie_zombie_arms_model_5"	"models/player/custom_player/zombie/normal_m_01/hand/eminem/hand_normal_m_01.mdl"
+		"zombie_zombie_arms_model_6"	"models/player/custom_player/zombie/normal_m_02/hand/eminem/hand_normal_m_02.mdl"
+		"zombie_zombie_arms_model_7"	"models/player/custom_player/zombie/normal_m_08/hand/eminem/hand_normal_m_08.mdl"
+		"zombie_zombie_arms_model_8"	"models/player/custom_player/zombie/normal_m_09/hand/eminem/hand_normal_m_09.mdl"
+		"zombie_zombie_arms_model_9"	"models/player/custom_player/zombie/normal_m_10/hand/eminem/hand_normal_m_10.mdl"
+		"zombie_health"	"6000"
+		"zombie_health_ex"	"18000"
+		"zombie_health_math"	"150"
+		"zombie_health_math_ex"	"550"
+		"zombie_health_recharge_scale"		"100"
+		"zombie_health_recharge_scale_ex"	"120"
+		"zombie_speed"	"1.00"
+		"zombie_speed_ex"	"1.10"
+		"zombie_gravity"	"0.95"
+		"zombie_gravity_ex"	"0.95"
+		"zombie_knockback_scale"	"1.9"
+		"zombie_knockback_scale_ex"	"2.1"
+		"zombie_health_recharge_time"		"1.1"
+		"zombie_health_recharge_time_ex"	"1.25"
+	}
+}

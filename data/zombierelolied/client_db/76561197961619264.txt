@@ -1,0 +1,16 @@
+"zmarket_client_db"
+{
+	"76561197961619264"
+	{
+		"class_id"		"0"
+		"primary_weapon_name"		"[EMPTY]"
+		"primary_weapon_alias"		"[EMPTY]"
+		"primary_weapon_price"		"0"
+		"primary_weapon_teamindex"		"0"
+		"secondary_weapon_name"		"weapon_tec9"
+		"secondary_weapon_alias"		"Tec-9"
+		"secondary_weapon_price"		"4500"
+		"secondary_weapon_teamindex"		"2"
+		"autobuy_toggle"		"0"
+	}
+}

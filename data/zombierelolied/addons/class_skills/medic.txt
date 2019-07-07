@@ -1,0 +1,114 @@
+"medic.txt"
+{
+	"단련된 피부"
+	{
+		"description"	"기본 체력이 +5 만큼 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"1"
+		"actionvalue"	"5.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"치유가스"
+	{
+		"description"	"5초간 자신을 포함한 주변 아군을 0.5초당 5 체력을 회복시키고,{newline}적에게는 150 피해를 주는 (치유가스)를 전개한다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"30"
+		"cooldown"		"20"
+		"needplayerpt"	"5"
+		"actionvalue"	"5.0"
+		"block_skill_id"	"2"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"치유탄"
+	{
+		"description"	"주무기에 (치유탄)을 한발 장전한다.{newline}팀원에게 (치유탄)을 발사 시 30 체력을 회복시키고, 감염상태를 치료한다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"20"
+		"cooldown"		"5"
+		"needplayerpt"	"5"
+		"actionvalue"	"30.0"
+		"block_skill_id"	"1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"치유가스 마스터리"
+	{
+		"description"	"(치유가스)의 치유량과 독성 피해가 증가하고,{newline}의료주사기의 아군 치유량이 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"2.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+
+	"치유탄 마스터리"
+	{
+		"description"	"(치유탄)의 회복량이 레벨당 +5 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"5.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"마비 수류탄"
+	{
+		"description"	"병과무기로 2,000 피해량 마다 마비 수류탄을 하나 획득한다.{newline}마비 수류탄에 들어간 좀비는 이동속도가 느려진다.{newline}레벨당 마비 수류탄의 지속 시간이 +1초 증가한다. (기본 지속 5초)"
+		"maxlvl"		"5"
+		"type"			"0"
+		"needplayerpt"	"1"
+		"actionvalue"	"1.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"독성주사"
+	{
+		"description"	"병과무기로 1,000 피해량 마다 (독성주사)를 장전 후 발사한다.{newline}(독성주사)에 맞은 좀비는 10초간 레벨당 +40 피해를 입는다."
+		"maxlvl"		"5"
+		"type"			"0"
+		"needplayerpt"	"1"
+		"actionvalue"	"40.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"나노머신가스"
+	{
+		"description"	"(나노머신가스)에 영향을 받은 팀원은 감염상태가 즉시 치유되고,{newline}가스에 영향을 받는 동안 0.5초당 +5 체력이 추가 회복된다."
+		"maxlvl"		"1"
+		"type"			"0"
+		"needplayerpt"	"25"
+		"actionvalue"	"5.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"3"
+	}
+	
+	"나노강화치유탄"
+	{
+		"description"	"(치유탄)을 사용 시 (나노강화치유탄)을 장전한다.{newline}(나노강화치유탄)에 적중당한 팀원은 5초간 연사력, 근접 공격력이 대폭 증가한다."
+		"maxlvl"		"1"
+		"type"			"0"
+		"needplayerpt"	"25"
+		"actionvalue"	"5.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"4"
+	}
+}

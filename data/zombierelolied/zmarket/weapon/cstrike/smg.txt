@@ -1,0 +1,37 @@
+"smg"
+{
+	"잉그람 MAC-10"
+	{
+		"weapon_name"	"weapon_mac10"
+		"weapon_price"	"1400"
+		"weapon_team"	"2"
+	}
+	
+	"슈미트 기관 권총"
+	{
+		"weapon_name"	"weapon_tmp"
+		"weapon_price"	"1250"
+		"weapon_team"	"3"
+	}
+	
+	"KM 기관단총"
+	{
+		"weapon_name"	"weapon_mp5navy"
+		"weapon_price"	"1500"
+		"weapon_team"	"3"
+	}
+	
+	"KM UMP45"
+	{
+		"weapon_name"	"weapon_ump45"
+		"weapon_price"	"1700"
+		"weapon_team"	"3"
+	}
+	
+	"ES C90"
+	{
+		"weapon_name"	"weapon_p90"
+		"weapon_price"	"2350"
+		"weapon_team"	"3"
+	}
+}

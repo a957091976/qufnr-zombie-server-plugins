@@ -1,0 +1,75 @@
+"normal.txt"
+{
+//	"스킬 명"
+//	{
+//		"description"	"스킬 설명"
+//		"maxlvl"		"스킬 최대 레벨"
+//		"type"			"스킬 유형 0 - 패시브, 1 - 액티브"
+//		"consume_armorpoint"	"액티브 스킬 사용 시 필요한 armor 값"
+//		"cooldown"		"액티브 스킬 쿨타임"
+//		"needplayerpt"	"소모 플레이어pt"
+//		"actionvalue"	"스킬 증가 값"
+//		"block_skill_id"	"해당 스킬을 배우면, 이 값의 스킬을 못 배우게 함."	없으면 무조건 -1
+//		"activity_skill_id"	"이 값의 스킬을 배워야 해당 스킬을 배울 수 있게 함."	위와 동일
+//	}
+
+	"AP 증가"
+	{
+		"description"	"AP가 +3 만큼 증가한다."
+		"maxlvl"		"5"
+		"type"			"0"
+		"needplayerpt"	"1"
+		"actionvalue"	"3.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"수류탄 마스터리"
+	{
+		"description"	"수류탄 피해량이 +35%% 증가한다."
+		"maxlvl"		"3"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"1.35"
+		"block_skill_id"	"2"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"그레네이드 익스플로드"
+	{
+		"description"	"수류탄 폭발 범위가 +14%% 증가한다."
+		"maxlvl"		"4"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"1.14"
+		"block_skill_id"	"1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"전술 재장전"
+	{
+		"description"	"장전 속도가 +3%% 증가한다."
+		"maxlvl"		"6"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.03"
+		"block_skill_id"	"4"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"피닉스 파이어레이트"
+	{
+		"description"	"발사 속도가 +2%% 증가한다."
+		"maxlvl"		"6"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.02"
+		"block_skill_id"	"3"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+}

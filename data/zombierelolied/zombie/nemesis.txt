@@ -1,0 +1,17 @@
+"zombie_nemesis"
+{
+	"nemesis"
+	{
+		"nemesis_health"	"15000"
+		"nemesis_health_math"	"1300"
+		"nemesis_recharge_health_scale"	"50"
+		"nemesis_longjump_scale"		"0.7"
+		"nemesis_longjump_cooldown"		"3.0"
+		"nemesis_speed"			"1.45"
+		"nemesis_gravity"		"0.48"
+		"nemesis_knockback"		"3.5"
+		"nemesis_recharge_health_time"	"1.5"
+		"nemesis_model"			"models/player/uuz/pl/pl.mdl"
+		"nemesis_arms_model"	"models/player/uuz/pl/pl_arms.mdl"
+	}
+}

@@ -1,0 +1,16 @@
+"sg"
+{
+	"레오네 12 게이지 슈퍼"
+	{
+		"weapon_name"	"weapon_m3"
+		"weapon_price"	"1700"
+		"weapon_team"	"3"
+	}
+	
+	"레오네 YG1265 자동 산탄총"
+	{
+		"weapon_name"	"weapon_xm1014"
+		"weapon_price"	"3000"
+		"weapon_team"	"3"
+	}
+}

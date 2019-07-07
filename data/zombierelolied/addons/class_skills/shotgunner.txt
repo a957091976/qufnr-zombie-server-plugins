@@ -1,0 +1,114 @@
+"shotgunner.txt"
+{
+	"SG 숙련"		//	v
+	{
+		"description"	"SG의 피해량이 3%% 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"1"
+		"actionvalue"	"0.03"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"펄스샷"		//	v
+	{
+		"description"	"부채꼴 범위에 충격파를 날려 적을 밀치고, {newline}80 피해를 주는 펄스샷을 한발 장전하고, 다음 사격에 발사한다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"15"
+		"cooldown"		"10"
+		"needplayerpt"	"5"
+		"actionvalue"	"80.0"
+		"block_skill_id"	"2"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"전술 지뢰"		//	v
+	{
+		"description"	"전술 지뢰를 설치할 수 있는 수류탄이 1개 지급된다.{newline}좀비가 지뢰를 밟으면 0.5초 후에 폭발하여 500 폭발 피해를 입힌다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"20"
+		"cooldown"		"10"
+		"needplayerpt"	"5"
+		"actionvalue"	"500.0"
+		"block_skill_id"	"1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"펄스샷 마스터리"	//	v
+	{
+		"description"	"(펄스샷)이 주는 피해가 레벨당 15 만큼 증가하고,{newline}밀치는 사거리가 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"15.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"전술 지뢰 마스터리"	//	v
+	{
+		"description"	"(전술 지뢰)가 입히는 폭발 피해가 레벨당 100 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"100.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"저지력"		//	v
+	{
+		"description"	"SG의 경직력이 레벨당 +5%% 증가한다."
+		"maxlvl"		"6"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.05"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"폭발탄"	//	v
+	{
+		"description"	"SG로 좀비를 타격 시 각 펠릿이 폭발하여 작은 범위안의{newline}적에게 무기 피해량의 10%%의 피해를 주는 특수탄을 발사한다.{newline}레벨당 +2%% 증가한다."
+		"maxlvl"		"6"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.02"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"제트기류"	//	v
+	{
+		"description"	"(펄스샷) 사용 시 사용한 위치에서 펄스샷이 0.3초에 걸쳐 2번 더 발동한다."
+		"maxlvl"		"1"
+		"type"			"0"
+		"needplayerpt"	"25"
+		"actionvalue"	"0.3"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"3"
+	}
+	
+	"특이점 지뢰"	//	v
+	{
+		"description"	"(전술 지뢰)가 적을 감지한 직 후 근처의 적들을 끌어온 후 폭발한다."
+		"maxlvl"		"1"
+		"type"			"0"
+		"needplayerpt"	"25"
+		"actionvalue"	"0.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"2"
+		"activity_skill_maxlvl_id"	"4"
+	}
+}

@@ -1,0 +1,30 @@
+"sg"
+{
+	"Nova"
+	{
+		"weapon_name"	"weapon_nova"
+		"weapon_price"	"3500"
+		"weapon_team"	"3"
+	}
+	
+	"XM1014"
+	{
+		"weapon_name"	"weapon_xm1014"
+		"weapon_price"	"4000"
+		"weapon_team"	"3"
+	}
+	
+	"Sawed-off"
+	{
+		"weapon_name"	"weapon_sawedoff"
+		"weapon_price"	"3500"
+		"weapon_team"	"2"
+	}
+	
+	"MAG-7"
+	{
+		"weapon_name"	"weapon_mag7"
+		"weapon_price"	"4000"
+		"weapon_team"	"3"
+	}
+}

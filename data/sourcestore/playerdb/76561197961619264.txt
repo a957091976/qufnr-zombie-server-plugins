@@ -1,0 +1,21 @@
+"data"
+{
+	"76561197961619264"
+	{
+		"player_balance"		"36679"
+		"player_normal_tickets"		"0"
+		"player_premium_tickets"		"0"
+		"player_gasya_point"		"3"
+		"player_character"		"콤바인"
+		"player_laserbullet"		"보라색"
+		"player_mvp"		"1"
+		"player_mvp_plus"		"1"
+		"player_toggle_rainbow_body"		"0"
+		"player_rainbow_body_tickspeed"		"1.000000"
+		"player_item_82"		"1"
+		"player_item_130"		"1"
+		"player_item_133"		"1"
+		"player_item_140"		"1"
+		"player_item_141"		"1"
+	}
+}

@@ -1,0 +1,128 @@
+"supporter.txt"
+{
+	"SMG 숙련"
+	{
+		"description"	"SMG의 피해량이 레벨당 2%% 증가한다."
+		"maxlvl"		"11"
+		"type"			"0"
+		"needplayerpt"	"1"
+		"actionvalue"	"0.02"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"보급 상자"
+	{
+		"description"	"탄약이 들어잇는 보급상자를 바라보는 곳에 설치한다.{newline}(보급 상자)는 2번 사용할수 있으며 사용시 사용한 탄약을 일부 채워준다.{newline}탄약이 70% 이하가 되었을때 사용 가능하다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"50"
+		"cooldown"		"50"
+		"needplayerpt"	"5"
+		"actionvalue"	"2.0"	//	탄창 갯수
+		"block_skill_id"	"4"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"보급 상자 마스터리"
+	{
+		"description"	"(보급 상자)의 사용 횟수가 레벨당 +1 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"1.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"SMG 소환"
+	{
+		"description"	"자신이 서있는 위치에 보급병이 사용 가능한{newline}SMG를 랜덤하게 하나 소환한다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"50"
+		"cooldown"		"60"
+		"needplayerpt"	"15"
+		"actionvalue"		"0.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"에너지 쉴드"
+	{
+		"description"	"시전 시 자신 앞에 400 체력을 가진 에너지 쉴드를 소환한다.{newline}10초가 지나면 사라지게 된다."
+		"maxlvl"		"1"
+		"type"			"1"
+		"consume_armorpoint"	"30"
+		"cooldown"		"30"
+		"needplayerpt"	"5"
+		"actionvalue"	"10.0"
+		"block_skill_id"	"1"
+		"activity_skill_id"	"-1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"에너지 쉴드 마스터리"
+	{
+		"description"	"레벨당 에너지 쉴드의 지속 시간이 0.5초 증가하고, 체력이 30 증가한다."
+		"maxlvl"		"10"
+		"type"			"0"
+		"needplayerpt"	"2"
+		"actionvalue"	"0.5"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"4"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"빙결탄"
+	{
+		"description"		"SMG로 800 피해를 줄때마다 좀비를 레벨당 0.2초간 얼리는{newline}얼음탄을 장전하여 다음사격에 발사한다."
+		"maxlvl"			"6"
+		"type"				"0"
+		"needplayerpt"		"1"
+		"actionvalue"		"0.2"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"발화탄"
+	{
+		"description"		"SMG로 800 피해를 줄때마다 좀비를 3초간 태워 0.5초당 레벨당 20의 피해를{newline}입히는 화염탄을 장전하여 다음사격에 발사한다."
+		"maxlvl"			"6"
+		"type"				"0"
+		"needplayerpt"		"1"
+		"actionvalue"		"20.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"4"
+		"activity_skill_maxlvl_id"	"-1"
+	}
+	
+	"철갑탄 상자"
+	{
+		"description"		"(보급 상자) 대신 (철갑탄 상자)를 설치한다.{newline}(철갑탄 상자)를 사용하면 탄이 즉시 재장전 되고,{newline}재장전된 탄은 30%%의 추가 피해를 준다."
+		"maxlvl"			"1"
+		"type"				"0"
+		"needplayerpt"		"25"
+		"actionvalue"		"0.30"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"1"
+		"activity_skill_maxlvl_id"	"2"
+	}
+	
+	"과부하 보호막"
+	{
+		"description"		"에너지 쉴드의 지속시간이 만료되거나, 체력이 모두 소진되어 파괴될 때{newline}폭발하여 주변의 좀비에게 1500 피해를 준다."
+		"maxlvl"			"1"
+		"type"				"0"
+		"needplayerpt"		"25"
+		"actionvalue"		"1500.0"
+		"block_skill_id"	"-1"
+		"activity_skill_id"	"4"
+		"activity_skill_maxlvl_id"	"5"
+	}
+}

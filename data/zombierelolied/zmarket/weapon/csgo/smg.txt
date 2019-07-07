@@ -1,0 +1,51 @@
+"smg"
+{
+	"MAC-10"
+	{
+		"weapon_name"	"weapon_mac10"
+		"weapon_price"	"2500"
+		"weapon_team"	"2"
+	}
+	
+	"MP9"
+	{
+		"weapon_name"	"weapon_mp9"
+		"weapon_price"	"2500"
+		"weapon_team"	"3"
+	}
+	
+	"MP7"
+	{
+		"weapon_name"	"weapon_mp7"
+		"weapon_price"	"2500"
+		"weapon_team"	"3"
+	}
+
+	"MP5-SD"
+	{
+		"weapon_name"	"weapon_mp5sd"
+		"weapon_price"	"3000"
+		"weapon_team"	"3"
+	}	
+
+	"UMP-45"
+	{
+		"weapon_name"	"weapon_ump45"
+		"weapon_price"	"3000"
+		"weapon_team"	"3"
+	}
+	
+	"P90"
+	{
+		"weapon_name"	"weapon_p90"
+		"weapon_price"	"3500"
+		"weapon_team"	"3"
+	}
+	
+	"PP Bizon"
+	{
+		"weapon_name"	"weapon_bizon"
+		"weapon_price"	"4000"
+		"weapon_team"	"3"
+	}
+}

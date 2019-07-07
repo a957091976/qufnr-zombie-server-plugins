@@ -1,0 +1,44 @@
+"class_list.txt"
+{
+	"없음"
+	{
+		"description"	"???"
+		"needlvl"		"0"
+	}
+	
+	"돌격병"
+	{
+		"description"	"주 무기: ARs{newline}기술: 팀원 또는 자신 버프{newline} {newline}자세한 설명은 스팀 그룹에..."
+		"needlvl"		"5"
+	}
+	
+	"저격병"
+	{
+		"description"	"주 무기: Sniper / Auto-Sniper{newline}기술: 높은 파괴력{newline} {newline}자세한 설명은 스팀 그룹에..."
+		"needlvl"		"5"
+	}
+	
+	"의무병"
+	{
+		"description"	"주 무기: SSG-08, Tec-9, 베레타, CZ75A, P250{newline}기술: 아군 치료, 좀비에게 해로운 공격{newline} {newline}자세한 설명은 스팀 그룹에..."
+		"needlvl"		"5"
+	}
+	
+	"보급병"
+	{
+		"description"	"주 무기: SMGs{newline}기술: 바리케이드 소환, 탄약 상자 설치{newline} {newline}자세한 설명은 스팀 그룹에..."
+		"needlvl"		"5"
+	}
+	
+	"전문병"
+	{
+		"description"	"주 무기: SG{newline}기술: 범위 공격, 지뢰 설치{newline} {newline}자세한 설명은 스팀 그룹에..."
+		"needlvl"		"5"
+	}
+	
+	"총잡이"
+	{
+		"description"	"주 무기: Pistols{newline}기술: 권총의 빠른 기동력{newline} {newline}자세한 설명은 스팀 그룹에..."
+		"needlvl"		"5"
+	}
+}

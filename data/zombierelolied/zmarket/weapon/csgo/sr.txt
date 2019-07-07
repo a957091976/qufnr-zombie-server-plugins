@@ -1,0 +1,30 @@
+"sr"
+{
+	"SSG 08"
+	{
+		"weapon_name"	"weapon_ssg08"
+		"weapon_price"	"2000"
+		"weapon_team"	"3"
+	}
+	
+	"SCAR-20"
+	{
+		"weapon_name"	"weapon_scar20"
+		"weapon_price"	"4000"
+		"weapon_team"	"3"
+	}
+	
+	"G3SG1"
+	{
+		"weapon_name"	"weapon_g3sg1"
+		"weapon_price"	"4000"
+		"weapon_team"	"2"
+	}
+	
+	"AWP"
+	{
+		"weapon_name"	"weapon_awp"
+		"weapon_price"	"3500"
+		"weapon_team"	"3"
+	}
+}

@@ -1,0 +1,44 @@
+"hg"
+{
+	"9X19MM 사이드암"
+	{
+		"weapon_name"	"weapon_glock"
+		"weapon_price"	"400"
+		"weapon_team"	"2"
+	}
+	
+	"KM 전술용 45구경"
+	{
+		"weapon_name"	"weapon_usp"
+		"weapon_price"	"500"
+		"weapon_team"	"3"
+	}
+	
+	"228 컴팩트"
+	{
+		"weapon_name"	"weapon_p228"
+		"weapon_price"	"600"
+		"weapon_team"	"3"
+	}
+	
+	"50구경 나이트 호크"
+	{
+		"weapon_name"	"weapon_deagle"
+		"weapon_price"	"650"
+		"weapon_team"	"3"
+	}
+	
+	"ES 파이브-세븐"
+	{
+		"weapon_name"	"weapon_fiveseven"
+		"weapon_price"	"750"
+		"weapon_team"	"3"
+	}
+	
+	"40구경 듀얼 엘리트"
+	{
+		"weapon_name"	"weapon_elite"
+		"weapon_price"	"800"
+		"weapon_team"	"2"
+	}
+}
